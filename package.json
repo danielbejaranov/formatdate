@@ -1,5 +1,5 @@
 {
-  "name": "dateformats",
+  "name": "dateformats-lite",
   "version": "1.0.0",
   "description": "Una utilidad para manejar fechas en formato timestamp, long time y short time.",
   "main": "src/index.js",
