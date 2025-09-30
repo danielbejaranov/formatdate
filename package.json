@@ -1,0 +1,16 @@
+{
+  "name": "dateformats",
+  "version": "1.0.0",
+  "description": "Una utilidad para manejar fechas en formato timestamp, long time y short time.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "keywords": [
+    "nodejs", 
+    "date"],
+  "author": "Daniel Bejarano <debejara@espol.edu.ec>",
+  "license": "MIT",
+  "type": "commonjs"
+}
